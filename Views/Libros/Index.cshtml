@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Gestón_de_Libros.Models.Libro>
+@{
+    ViewData["Title"] = "Listado de libros";
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+
+<div class="container py-4">
+    <h2>@ViewData["Title"]</h2>
+
+    <p>
+        <a class="btn btn-primary" asp-action="Crear">Registrar nuevo libro</a>
+    </p>
+
+    @if (TempData["MensajeExito"] != null)
+    {
+        <div class="alert alert-success">@TempData["MensajeExito"]</div>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Categoría</th>
+                <th>Año</th>
+                <th>Páginas</th>
+                <th>Código</th>
+                <th>Disponible</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr><td colspan="7" class="text-center">No hay libros registrados.</td></tr>
+            }
+            else
+            {
+                foreach (var libro in Model)
+                {
+                    <tr>
+                        <td>@libro.Titulo</td>
+                        <td>@libro.Autor</td>
+                        <td>@libro.Categoria</td>
+                        <td>@libro.AnioPublicacion</td>
+                        <td>@libro.NumeroPaginas</td>
+                        <td>@libro.CodigoInterno</td>
+                        <td>@(libro.Disponible ? "Sí" : "No")</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

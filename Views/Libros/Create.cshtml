@@ -1,0 +1,72 @@
+﻿@model Gestón_de_Libros.Models.Libro
+@{
+    ViewData["Title"] = "Registrar libro";
+}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" />
+
+<div class="container py-4">
+    <h2>@ViewData["Title"]</h2>
+
+    <form asp-action="Crear" method="post" novalidate>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div class="mb-3">
+            <label asp-for="Titulo" class="form-label"></label>
+            <input asp-for="Titulo" class="form-control" />
+            <span asp-validation-for="Titulo" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Autor" class="form-label"></label>
+            <input asp-for="Autor" class="form-control" />
+            <span asp-validation-for="Autor" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Categoria" class="form-label"></label>
+            <select asp-for="Categoria" class="form-select">
+                <option value="">Seleccione...</option>
+                <option>Programación</option>
+                <option>Redes</option>
+                <option>Bases de Datos</option>
+                <option>IA</option>
+                <option>Otro</option>
+            </select>
+            <span asp-validation-for="Categoria" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3 row">
+            <div class="col-md-4">
+                <label asp-for="AnioPublicacion" class="form-label"></label>
+                <input asp-for="AnioPublicacion" class="form-control" type="number" />
+                <span asp-validation-for="AnioPublicacion" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="NumeroPaginas" class="form-label"></label>
+                <input asp-for="NumeroPaginas" class="form-control" type="number" />
+                <span asp-validation-for="NumeroPaginas" class="text-danger"></span>
+            </div>
+            <div class="col-md-4">
+                <label asp-for="CodigoInterno" class="form-label"></label>
+                <input asp-for="CodigoInterno" class="form-control" />
+                <span asp-validation-for="CodigoInterno" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Disponible</label>
+            <div class="form-check">
+                <input asp-for="Disponible" class="form-check-input" type="checkbox" />
+                <label asp-for="Disponible" class="form-check-label">Disponible</label>
+            </div>
+            <span asp-validation-for="Disponible" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Registrar</button>
+        <a asp-action="Index" class="btn btn-secondary">Volver al listado</a>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
