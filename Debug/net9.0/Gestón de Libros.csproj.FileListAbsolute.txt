@@ -1,0 +1,97 @@
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.AssemblyInfoInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.AssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.RazorAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.RazorAssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\appsettings.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.staticwebassets.runtime.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.staticwebassets.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.exe
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.deps.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.runtimeconfig.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\bin\Debug\net9.0\Gestón de Libros.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\scopedcss\bundle\Gestón de Libros.styles.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\scopedcss\projectbundle\Gestón de Libros.bundle.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\i8ejtq8hrf-b9sayid5wm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\cgrrt74m2s-61n19gt1b8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\3ov635apdv-xtxxf3hu2r.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\ycverimetc-bqjiyaj88i.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\gt8nqbqkfz-c2jlpeoesf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\xoehmjvq4o-erw9l3u2r3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\kz5ynim9iq-aexeepp0ev.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\u16opfatl4-d7shbmvgxk.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\1iczgqpit2-ausgxo2sd3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\07tkpic8di-k8d9w2qqmf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\1wm5tosest-cosvhxvwiu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\d0hfj44ohf-ub07r2b239.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\iab56hv9iq-fvhpjtyr6v.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\k66jmjmedh-b7pk76d08c.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\9dpzpxn62x-fsbi9cje9m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\1dovkpgun6-rzd6atqjts.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\xeiiou8g1v-ee0r1s7dh0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\q3mc9y8qag-dxx9fxp4il.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\qwodlq22ry-jd9uben2k1.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\8rua34ekoq-khv3u5hwcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\vmyudywt9c-r4e9w2rdcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\i3jea7n32e-lcd1t2u6c8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\1o4ucem3qf-c2oey78nd0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\fcmwt9384y-tdbxkamptv.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\hp3sw0nb8e-j5mq2jizvt.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\x07l8fac3a-06098lyss8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\y8tr2wd2ma-nvvlpmu67g.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\daafopdh12-s35ty4nyc5.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\lrimcv44y9-pj5nd1wqec.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\tprawtdb5g-46ein0sx1k.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\1275r4hu3r-v0zj4ognzu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\g6kpy2btlr-37tfw0ft22.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\uo1pxwnrpl-hrwsygsryq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\p30cwvzfgl-pk9g2wxc8p.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\0yq7thj2sx-ft3s53vfgj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\gprnigvk5t-6cfz1n2cew.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\ahxkdsrc22-6pdc2jztkx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\r8gcqq3mlw-493y06b0oq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\mv4lppfu6v-iovd86k7lj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\b1tewyr2iw-vr1egmr9el.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\n1bbr9jytr-kbrnm935zg.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\hyosgrqy7w-jj8uyg4cgr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\n653bvfryo-y7v9cxd14o.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\5mtncm9olv-notf2xhcfb.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\ygwqyk9yhl-h1s4sie4z3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\6hz1er9fz8-63fj8s7r0e.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\dhgxh9wcqz-0j3bgjxly4.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\z4cofbmp89-47otxtyo56.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\gzndorl7ka-4v8eqarkd7.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\fxqlzrd7db-356vix0kms.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\8mhykkvfqc-83jwlth58m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\7j0z1aqdco-mrlpezrjn3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\k353cs0o8y-lzl9nlhx6b.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\770laesg2k-ag7o75518u.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\96arq3hpr1-x0q3zqp4vz.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\muzbcqbdi4-0i3buxo5is.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\mjxv5lvof0-o1o13a6vjx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\9plrntosax-ttgo8qnofa.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\svu40md9hc-2z0ns9nrw6.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\cun4avvhw6-muycvpuwrr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\0i3pxqdjl7-87fc7y1x7t.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\mhqf7187d8-mlv21k5csn.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\51e0njo8sb-0n6g3d3tnk.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\compressed\xenw1qp99o-0n6g3d3tnk.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\refint\Gestón de Libros.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\Gestón de Libros.genruntimeconfig.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Gestón de Libros\obj\Debug\net9.0\ref\Gestón de Libros.dll
