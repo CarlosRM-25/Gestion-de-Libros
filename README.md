@@ -210,5 +210,3 @@ Este proyecto corresponde a la práctica del módulo ASP.NET Core MVC e incluye:
 * Evidencias para evaluación académica
 
 ---
-
-Si deseas, puedo agregar diagramas, explicación extendida del patrón MVC o instrucciones para deploy. 😊
