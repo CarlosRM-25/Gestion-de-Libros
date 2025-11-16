@@ -114,7 +114,7 @@ Incluye métodos para agregar y obtener libros.
 
 ---
 
-## 🛠️ Pasos de Desarrollo (Guía para el estudiante)
+## Pasos de Desarrollo (Guía para el estudiante)
 
 ### **Fase 1 – Creación del Proyecto**
 
